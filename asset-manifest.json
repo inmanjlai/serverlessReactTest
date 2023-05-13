@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/reactServerlessBuild/static/css/main.d5ed0382.css",
+    "main.js": "/reactServerlessBuild/static/js/main.6a30709a.js",
+    "index.html": "/reactServerlessBuild/index.html",
+    "main.d5ed0382.css.map": "/reactServerlessBuild/static/css/main.d5ed0382.css.map",
+    "main.6a30709a.js.map": "/reactServerlessBuild/static/js/main.6a30709a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d5ed0382.css",
+    "static/js/main.6a30709a.js"
+  ]
+}
